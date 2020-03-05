@@ -4,6 +4,8 @@
 
 **Github: https://github.com/williamhyin/CarND-Kidnapped-Vehicle**
 
+**Email: williamhyin@outlook.com**
+
 ##### 1. Definition of Particle Filter
 
 粒子滤波器是贝叶斯滤波器或马尔可夫定位滤波器的实现。 粒子过滤器基于“适者生存的原理”主要用于解决定位问题。 粒子滤波的优势在于易于编程并且灵活。
@@ -410,4 +412,4 @@
 >
 > - [Udacity]: www.udacity.com	"Udacity"
 >
-> - [Medium]: https://medium.com/intro-to-artificial-intelligence/localisation-udacitys-self-driving-car-nanodegree-8440a1f83eab	"Dhanoop Karunakaran"
+> - [Medium]: https://medium.com/intro-to-artificial-intelligence/kidnapped-vehicle-project-using-particle-filters-udacitys-self-driving-car-nanodegree-aa1d37c40d49	"Dhanoop Karunakaran"

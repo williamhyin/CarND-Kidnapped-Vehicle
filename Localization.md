@@ -2,6 +2,10 @@
 
 ![](https://williamhyin-1301408646.cos.ap-shanghai.myqcloud.com/img/20200304223711.png)
 
+**Github: https://github.com/williamhyin/CarND-Kidnapped-Vehicle**
+
+**Email: williamhyin@outlook.com**
+
 #### Definition of Localization
 
 1. 汽车会收集当前环境的信息,并和已知地图对比,推断它在世界上的位置. 简而言之, 自动驾驶定位技术就是解决“我在哪儿”的问题, 并且对可靠性和安全性提出了非常高的要求. 

@@ -1,8 +1,19 @@
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
+![](https://williamhyin-1301408646.cos.ap-shanghai.myqcloud.com/img/20200303172826.gif)
+
 #### Submission
+
 All you will need to submit is your `src` directory. You should probably do a `git pull` before submitting to verify that your project passes the most up-to-date version of the grading code (there are some parameters in `src/main.cpp` which govern the requirements on accuracy and run time).
+
+------
+
+## Documentations
+
+**Localization.md**: Definition and basic realization of Localization
+
+**Particle Filter - Kidnapped vehicle project.md:** Definition of Particle Filter, Particle Filters implementation and project demo
 
 ## Project Introduction
 Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
@@ -138,9 +149,4 @@ The things the grading code is looking for are:
 1. **Accuracy**: your particle filter should localize vehicle position and yaw to within the values specified in the parameters `max_translation_error` and `max_yaw_error` in `src/main.cpp`.
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
-
-## Documentations
-**Localization.md**: Definition and basic realization of Localization
-
-**Particle Filter - Kidnapped vehicle project.md:** Definition of Particle Filter, Particle Filters implementation and project demo
 
