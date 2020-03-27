@@ -239,7 +239,7 @@
 
       在这种方法中，我们将最接近的测量作为正确的测量。
 
-      ![img](https://miro.medium.com/max/1787/1*ibIAq9fyE9GAG2mmlip3rw.png)
+      ![](https://williamhyin-1301408646.cos.ap-shanghai.myqcloud.com/img/20200327090047.png)
 
       最紧邻法的优缺点:
 
@@ -413,3 +413,4 @@
 > - [Udacity]: www.udacity.com	"Udacity"
 >
 > - [Medium]: https://medium.com/intro-to-artificial-intelligence/kidnapped-vehicle-project-using-particle-filters-udacitys-self-driving-car-nanodegree-aa1d37c40d49	"Dhanoop Karunakaran"
+
